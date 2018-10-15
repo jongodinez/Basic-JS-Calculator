@@ -1,2 +1,2 @@
 # Basic-JS-Calculator
-Little project to familiarize myself to the Javascript language.
+Little project to familiarize myself to the Javascript syntax.
