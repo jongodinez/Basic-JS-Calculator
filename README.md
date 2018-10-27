@@ -1,2 +1,2 @@
 # Basic-JS-Calculator
-Little project to familiarize myself to the Javascript syntax.
+Functions include add, subtract, multiply, & divide.
